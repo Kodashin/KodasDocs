@@ -1,7 +1,7 @@
 <h1 align="center">KodasDocs</h1>
 <h2 align="center">
 
-[![](https://awesome.re/mentioned-badge.svg)](https://github.com/Kodashin/KodasDocs)
+[![](https://img.shields.io/badge/Product%20of-Kodas%20Studios-blueviolet)](https://github.com/Kodashin/KodasDocs)
 
 </h2>
 
